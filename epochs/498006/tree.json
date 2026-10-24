@@ -1,0 +1,27 @@
+{
+  "format": "standard-v1",
+  "leafEncoding": [
+    "uint256",
+    "address",
+    "uint256[5]"
+  ],
+  "tree": [
+    "0x4d480dbd5efe57161434f8fb09f9d70230fed790f6e17e86b17c4a41bb9a0f21"
+  ],
+  "values": [
+    {
+      "value": [
+        "498006",
+        "0xd21eb272f4f8435c884cb8e0578f959d3ff83ed2",
+        [
+          "0",
+          "0",
+          "1",
+          "0",
+          "0"
+        ]
+      ],
+      "treeIndex": 0
+    }
+  ]
+}
