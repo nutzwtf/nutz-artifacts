@@ -1,0 +1,44 @@
+{
+  "schema": "nutz-bundle/1",
+  "chainId": "4663",
+  "token": "0x5a8e6bb390b51978b0cea029a070cfcdd495138e",
+  "distributor": "0x95d876590611bf31c17ef97238c856579168ae64",
+  "devWallet": "0xd21eb272f4f8435c884cb8e0578f959d3ff83ed2",
+  "epochId": "498032",
+  "window": {
+    "start": "1792915200",
+    "end": "1792918800"
+  },
+  "endBlock": {
+    "number": "97468061",
+    "hash": "0x7cc1a91cb97dd2c8af243ed02a5d63104a4fcacba868c0966f496f83d98dbbc4"
+  },
+  "finality": "safe",
+  "funded": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "carryIn": [
+    "12",
+    "11",
+    "11",
+    "12",
+    "10"
+  ],
+  "carryFrom": "carryOut of epoch 498031",
+  "excludedSetHash": "0x99aa5004991f7fcbecfe6109080b406380141347d30cde2e5b7cc216e1403fac",
+  "excludedCount": "7",
+  "totalWeight": "7068415656079783037597983390000",
+  "holders": "2",
+  "indexer": {
+    "version": "v0.8.3",
+    "commit": "f206941"
+  },
+  "nutzVerify": {
+    "version": "v0.6.0"
+  },
+  "computedAt": "2026-10-25T09:13:01Z"
+}
