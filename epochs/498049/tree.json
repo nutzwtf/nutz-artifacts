@@ -1,0 +1,107 @@
+{
+  "format": "standard-v1",
+  "leafEncoding": [
+    "uint256",
+    "address",
+    "uint256[5]"
+  ],
+  "tree": [
+    "0xcab7ee37a0a89b1ef7a5384d538a6f4d901727450ff7a57f0ff1632391d4176a",
+    "0xda067ddd5676ce8deaab1806bb73a49b8fe4ebc6c7bcbcc57884a31619f034b5",
+    "0x4e1d493ae315d7f8d3de0d850b741635ed8add5b81a2a33251fa352fd3476304",
+    "0xd460af596aa01f5452175a0a1e21ae922183644b4d7242d50660bd14b64e0488",
+    "0xb9c41e59d07c838c5fa7e4862fe78792b1e8f8051a87a8da7f2fd3203362875a",
+    "0xf2f3480533ebeac55b9932c4456399e6320abc2f3bc7f400e2c949cbfbb2069d",
+    "0x7da24cfd0da41508de0c3a54ff23849de21aca783ef494049132d18d0454b7ee",
+    "0x5a597b405f5a487b16f9ba9c9c814dbb099bb54ede54329aaea6e8737d4485d5",
+    "0x32a82b66db40879e189eb4fb5ca8497d8b04af7c39af59611f31dd5725943597",
+    "0x211c8b6a3559c34d603e943607911aa25f9f94c9e03d86e18de7809a23f0b306",
+    "0x20bdf47960a5e90cb9e9e526d1fd524a67703ae3cf6f9c00d834d5da1d4122d4"
+  ],
+  "values": [
+    {
+      "value": [
+        "498049",
+        "0x0e8efa9a61722a1cc7a9d7989c9d788448b215d3",
+        [
+          "0",
+          "1",
+          "1",
+          "0",
+          "0"
+        ]
+      ],
+      "treeIndex": 7
+    },
+    {
+      "value": [
+        "498049",
+        "0x90672dbc76be05ce388483073cf77133b1624d82",
+        [
+          "0",
+          "1",
+          "1",
+          "0",
+          "0"
+        ]
+      ],
+      "treeIndex": 8
+    },
+    {
+      "value": [
+        "498049",
+        "0x9a6f530b053659e884ed2e080b5f50e9ee54b890",
+        [
+          "1",
+          "2",
+          "2",
+          "1",
+          "1"
+        ]
+      ],
+      "treeIndex": 10
+    },
+    {
+      "value": [
+        "498049",
+        "0x9e0f1f44a25946fe6ab52d0850acd36542a2af05",
+        [
+          "0",
+          "1",
+          "1",
+          "0",
+          "0"
+        ]
+      ],
+      "treeIndex": 9
+    },
+    {
+      "value": [
+        "498049",
+        "0xd21eb272f4f8435c884cb8e0578f959d3ff83ed2",
+        [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "treeIndex": 5
+    },
+    {
+      "value": [
+        "498049",
+        "0xedd4706f7a1b15759bd9d762e7d704d303d69b5b",
+        [
+          "0",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "treeIndex": 6
+    }
+  ]
+}
